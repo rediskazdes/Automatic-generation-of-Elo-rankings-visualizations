@@ -1,0 +1,758 @@
+"","date","id","winner","loser","date_2"
+"1",2018-09-02,"/matches/4095501898","Braxstone","Thunder Predator",2001-01-08
+"2",2018-09-02,"/matches/4097161887","Infamous","Thunder Predator",2001-01-17
+"3",2018-09-02,"/matches/4097069837","Infamous","Thunder Predator",2001-01-21
+"4",2018-09-02,"/matches/4097052213","Infamous","Thunder Predator",2001-02-01
+"5",2018-09-02,"/matches/4096947701","Thunder Predator","Infamous",2001-02-26
+"6",2018-09-02,"/matches/4096105880","ALPHA Red","BOOM ID",2001-03-09
+"7",2018-09-02,"/matches/4095994938","BOOM ID","ALPHA Red",2001-03-10
+"8",2018-09-02,"/matches/4095870485","ALPHA Red","BOOM ID",2001-03-11
+"9",2018-09-03,"/matches/4097517459","Infamous","Thunder Predator",2001-03-25
+"10",2018-09-03,"/matches/4097498887","Infamous","Thunder Predator",2001-03-28
+"11",2018-09-03,"/matches/4097432323","Thunder Predator","Infamous",2001-03-31
+"12",2018-09-03,"/matches/4097350172","Infamous","Thunder Predator",2001-04-01
+"13",2018-09-05,"/matches/4101419087","Eclipse","Newbee Young",2001-05-07
+"14",2018-09-05,"/matches/4101301257","Eclipse","Newbee Young",2001-05-27
+"15",2018-09-08,"/matches/4105909734","Natural 9","Athletico Esports",2001-06-10
+"16",2018-09-10,"/matches/4111251019","Team Spirit","FCDB Esports",2001-06-13
+"17",2018-09-10,"/matches/4110601085","Tigers","ALPHA Red",2001-06-27
+"18",2018-09-11,"/matches/4111570858","Infamous Young","WP Gaming",2001-07-05
+"19",2018-09-11,"/matches/4112868021","Team Spirit","Team Empire",2001-07-07
+"20",2018-09-11,"/matches/4112779377","Team Spirit","Team Empire",2001-07-15
+"21",2018-09-11,"/matches/4112669900","Team Empire","Team Spirit",2001-07-17
+"22",2018-09-12,"/matches/4113588353","Team Aster","Team MAX",2001-07-31
+"23",2018-09-12,"/matches/4113536130","Team Aster","Team MAX",2001-08-02
+"24",2018-09-13,"/matches/4115531983","Royal Never Give Up","Team EVER",2001-08-07
+"25",2018-09-13,"/matches/4115452011","Royal Never Give Up","Team EVER",2001-08-19
+"26",2018-09-13,"/matches/4115360234","Team EVER","Royal Never Give Up",2001-09-01
+"27",2018-09-14,"/matches/4118101619","Natus Vincere","Team Empire",2001-09-04
+"28",2018-09-14,"/matches/4118023610","Team Empire","Natus Vincere",2001-09-14
+"29",2018-09-14,"/matches/4117932126","Natus Vincere","Team Empire",2001-09-18
+"30",2018-09-14,"/matches/4117135715","DeathBringer Gaming","Team EVER",2001-09-27
+"31",2018-09-14,"/matches/4117043994","DeathBringer Gaming","Team EVER",2001-09-30
+"32",2018-09-15,"/matches/4118816109","DeathBringer Gaming","Keen Gaming",2001-10-01
+"33",2018-09-15,"/matches/4118701638","Keen Gaming","DeathBringer Gaming",2001-10-04
+"34",2018-09-15,"/matches/4118573518","DeathBringer Gaming","Keen Gaming",2001-10-08
+"35",2018-09-15,"/matches/4119116138","EHOME","Mr Game Boy",2001-10-09
+"36",2018-09-15,"/matches/4118987953","EHOME","Mr Game Boy",2001-10-29
+"37",2018-09-15,"/matches/4118904381","Mr Game Boy","EHOME",2001-11-06
+"38",2018-09-16,"/matches/4121932240","paiN X","Thunder Predator",2001-11-12
+"39",2018-09-16,"/matches/4121865524","paiN X","Thunder Predator",2001-11-28
+"40",2018-09-16,"/matches/4121775454","Thunder Predator","paiN X",2001-12-03
+"41",2018-09-16,"/matches/4120851714","Natus Vincere","Espada",2002-01-08
+"42",2018-09-16,"/matches/4120750415","Natus Vincere","Espada",2002-01-11
+"43",2018-09-16,"/matches/4121288266","Virtus.pro","Natus Vincere",2002-01-27
+"44",2018-09-16,"/matches/4121141684","Virtus.pro","Natus Vincere",2002-02-14
+"45",2018-09-16,"/matches/4121991125","Team Spirit","Natus Vincere",2002-02-18
+"46",2018-09-16,"/matches/4121927768","Natus Vincere","Team Spirit",2002-03-02
+"47",2018-09-16,"/matches/4121762261","Team Spirit","Natus Vincere",2002-03-08
+"48",2018-09-16,"/matches/4121646959","Team Spirit","Espada",2002-03-13
+"49",2018-09-16,"/matches/4121409257","Team Spirit","Espada",2002-03-14
+"50",2018-09-16,"/matches/4121009241","Virtus.pro","Team Spirit",2002-03-25
+"51",2018-09-16,"/matches/4120889684","Team Spirit","Virtus.pro",2002-03-30
+"52",2018-09-16,"/matches/4120743962","Virtus.pro","Team Spirit",2002-04-14
+"53",2018-09-16,"/matches/4120877016","Winstrike Team","Gambit Esports",2002-04-30
+"54",2018-09-16,"/matches/4120747249","Winstrike Team","Gambit Esports",2002-05-10
+"55",2018-09-16,"/matches/4120922437","EHOME","DeathBringer Gaming",2002-05-11
+"56",2018-09-16,"/matches/4120481784","Newbee","DeathBringer Gaming",2002-05-13
+"57",2018-09-16,"/matches/4120413342","Newbee","DeathBringer Gaming",2002-05-17
+"58",2018-09-16,"/matches/4120357835","DeathBringer Gaming","Newbee",2002-05-30
+"59",2018-09-16,"/matches/4121307440","PSG.LGD","EHOME",2002-06-25
+"60",2018-09-16,"/matches/4121225396","PSG.LGD","EHOME",2002-07-03
+"61",2018-09-16,"/matches/4121146198","EHOME","PSG.LGD",2002-07-09
+"62",2018-09-16,"/matches/4120432559","PSG.LGD","EHOME",2002-07-19
+"63",2018-09-16,"/matches/4120361086","PSG.LGD","EHOME",2002-07-26
+"64",2018-09-16,"/matches/4120783957","Newbee","PSG.LGD",2002-07-28
+"65",2018-09-16,"/matches/4120666610","PSG.LGD","Newbee",2002-08-06
+"66",2018-09-16,"/matches/4120558919","Newbee","PSG.LGD",2002-08-10
+"67",2018-09-16,"/matches/4121098076","Vici Gaming","Royal Never Give Up",2002-08-20
+"68",2018-09-16,"/matches/4121023398","Vici Gaming","Royal Never Give Up",2002-08-22
+"69",2018-09-16,"/matches/4120902193","Royal Never Give Up","Vici Gaming",2002-09-16
+"70",2018-09-16,"/matches/4120486367","Team Serenity","Royal Never Give Up",2002-09-29
+"71",2018-09-16,"/matches/4120406886","Royal Never Give Up","Team Serenity",2002-10-08
+"72",2018-09-16,"/matches/4120354771","Team Serenity","Royal Never Give Up",2002-10-28
+"73",2018-09-16,"/matches/4120802777","Team Aster","Team Serenity",2002-11-06
+"74",2018-09-16,"/matches/4120719452","Team Serenity","Team Aster",2002-12-02
+"75",2018-09-16,"/matches/4120604920","Team Aster","Team Serenity",2002-12-04
+"76",2018-09-16,"/matches/4120488590","Team Aster","Vici Gaming",2002-12-08
+"77",2018-09-16,"/matches/4120418392","Team Aster","Vici Gaming",2002-12-11
+"78",2018-09-16,"/matches/4120357852","Vici Gaming","Team Aster",2002-12-23
+"79",2018-09-16,"/matches/4121502668","Vici Gaming","Team Serenity",2002-12-26
+"80",2018-09-16,"/matches/4121392212","Vici Gaming","Team Serenity",2002-12-28
+"81",2018-09-16,"/matches/4121239692","Team Serenity","Vici Gaming",2002-12-29
+"82",2018-09-17,"/matches/4122628266","Espada","Elements Pro",2003-01-05
+"83",2018-09-17,"/matches/4122573475","Espada","Elements Pro",2003-01-06
+"84",2018-09-17,"/matches/4123575301","Gambit Esports","Espada",2003-01-17
+"85",2018-09-17,"/matches/4123499392","Espada","Gambit Esports",2003-01-26
+"86",2018-09-17,"/matches/4123397950","Gambit Esports","Espada",2003-01-30
+"87",2018-09-17,"/matches/4122693629","Gambit Esports","Natus Vincere",2003-02-03
+"88",2018-09-17,"/matches/4122627785","Gambit Esports","Natus Vincere",2003-02-13
+"89",2018-09-17,"/matches/4122570453","Natus Vincere","Gambit Esports",2003-02-17
+"90",2018-09-17,"/matches/4123186912","Gambit Esports","Winstrike Team",2003-03-07
+"91",2018-09-17,"/matches/4123055088","Winstrike Team","Gambit Esports",2003-03-10
+"92",2018-09-17,"/matches/4122954580","Gambit Esports","Winstrike Team",2003-03-12
+"93",2018-09-17,"/matches/4122404850","Team Serenity","DeathBringer Gaming",2003-03-16
+"94",2018-09-17,"/matches/4122352959","Team Serenity","DeathBringer Gaming",2003-03-20
+"95",2018-09-17,"/matches/4122306892","DeathBringer Gaming","Team Serenity",2003-04-02
+"96",2018-09-17,"/matches/4122358859","Royal Never Give Up","EHOME",2003-04-18
+"97",2018-09-17,"/matches/4122305825","Royal Never Give Up","EHOME",2003-04-23
+"98",2018-09-17,"/matches/4122372951","PSG.LGD","Team Aster",2003-04-25
+"99",2018-09-17,"/matches/4122306160","PSG.LGD","Team Aster",2003-04-27
+"100",2018-09-17,"/matches/4122590368","Team Serenity","Newbee",2003-05-05
+"101",2018-09-17,"/matches/4122507615","Newbee","Team Serenity",2003-05-11
+"102",2018-09-17,"/matches/4122449350","Team Serenity","Newbee",2003-05-15
+"103",2018-09-17,"/matches/4122343723","Vici Gaming","Newbee",2003-05-25
+"104",2018-09-17,"/matches/4122306244","Vici Gaming","Newbee",2003-05-30
+"105",2018-09-17,"/matches/4122513262","Team Aster","Royal Never Give Up",2003-06-03
+"106",2018-09-17,"/matches/4122453163","Team Aster","Royal Never Give Up",2003-06-08
+"107",2018-09-17,"/matches/4122842404","Team Aster","Team Serenity",2003-06-30
+"108",2018-09-17,"/matches/4122760860","Team Serenity","Team Aster",2003-07-04
+"109",2018-09-17,"/matches/4122690009","Team Aster","Team Serenity",2003-07-06
+"110",2018-09-18,"/matches/4125361812","paiN Gaming","paiN X",2003-07-07
+"111",2018-09-18,"/matches/4125236683","Thunder Predator","paiN X",2003-07-16
+"112",2018-09-18,"/matches/4125025123","paiN Gaming","paiN X",2003-07-18
+"113",2018-09-18,"/matches/4124943020","paiN Gaming","paiN X",2003-07-25
+"114",2018-09-18,"/matches/4124867462","Gambit Esports","Team Spirit",2003-07-31
+"115",2018-09-18,"/matches/4124692990","Gambit Esports","Team Spirit",2003-08-01
+"116",2018-09-18,"/matches/4124592132","Virtus.pro","Team Spirit",2003-08-04
+"117",2018-09-18,"/matches/4124435014","Team Spirit","Virtus.pro",2003-08-09
+"118",2018-09-18,"/matches/4124362294","Virtus.pro","Team Spirit",2003-08-23
+"119",2018-09-18,"/matches/4125170897","Virtus.pro","Gambit Esports",2003-08-24
+"120",2018-09-18,"/matches/4125138171","Virtus.pro","Gambit Esports",2003-09-08
+"121",2018-09-18,"/matches/4125087160","Gambit Esports","Virtus.pro",2003-09-10
+"122",2018-09-18,"/matches/4124591856","PSG.LGD","Vici Gaming",2003-09-18
+"123",2018-09-18,"/matches/4124479183","PSG.LGD","Vici Gaming",2003-10-08
+"124",2018-09-18,"/matches/4124392449","Vici Gaming","PSG.LGD",2003-10-10
+"125",2018-09-18,"/matches/4124258165","PSG.LGD","Team Aster",2003-10-18
+"126",2018-09-18,"/matches/4124182422","Team Aster","PSG.LGD",2003-10-19
+"127",2018-09-18,"/matches/4124098418","PSG.LGD","Team Aster",2003-10-27
+"128",2018-09-18,"/matches/4124027214","Vici Gaming","PSG.LGD",2003-10-30
+"129",2018-09-18,"/matches/4123968185","PSG.LGD","Vici Gaming",2003-10-31
+"130",2018-09-18,"/matches/4123911989","Vici Gaming","PSG.LGD",2003-11-19
+"131",2018-09-19,"/matches/4126760117","Forward Gaming","compLexity Gaming",2003-12-08
+"132",2018-09-19,"/matches/4125408235","paiN Gaming","paiN X",2003-12-14
+"133",2018-09-19,"/matches/4126692237","Alliance","The Final Tribe",2003-12-18
+"134",2018-09-19,"/matches/4126601732","Alliance","The Final Tribe",2003-12-22
+"135",2018-09-19,"/matches/4126518127","The Final Tribe","Alliance",2003-12-24
+"136",2018-09-19,"/matches/4126075674","Team Secret","Alliance",2004-01-04
+"137",2018-09-19,"/matches/4125980682","Team Secret","Alliance",2004-01-06
+"138",2018-09-19,"/matches/4125858705","Alliance","The Final Tribe",2004-01-18
+"139",2018-09-19,"/matches/4125791326","Alliance","The Final Tribe",2004-01-24
+"140",2018-09-19,"/matches/4126075780","Ninjas in Pyjamas","Team Liquid",2004-02-02
+"141",2018-09-19,"/matches/4125961121","Ninjas in Pyjamas","Team Liquid",2004-02-18
+"142",2018-09-19,"/matches/4125862987","Ninjas in Pyjamas","Team Lithium",2004-03-10
+"143",2018-09-19,"/matches/4125793617","Ninjas in Pyjamas","Team Lithium",2004-03-12
+"144",2018-09-19,"/matches/4126775565","Team Liquid","Team Lithium",2004-03-22
+"145",2018-09-19,"/matches/4126645476","Team Lithium","Team Liquid",2004-04-02
+"146",2018-09-19,"/matches/4126570281","Team Liquid","Team Lithium",2004-04-12
+"147",2018-09-19,"/matches/4125993223","Execration","Lotac",2004-04-19
+"148",2018-09-19,"/matches/4125908537","Execration","Lotac",2004-04-20
+"149",2018-09-19,"/matches/4125821706","Lotac","Execration",2004-05-08
+"150",2018-09-19,"/matches/4125531127","Fnatic","Tigers",2004-05-28
+"151",2018-09-19,"/matches/4125470507","Fnatic","Tigers",2004-05-30
+"152",2018-09-19,"/matches/4125526828","TNC Predator","Lotac",2004-06-04
+"153",2018-09-19,"/matches/4125474618","TNC Predator","Lotac",2004-06-05
+"154",2018-09-19,"/matches/4125877135","Tigers","Mineski",2004-06-18
+"155",2018-09-19,"/matches/4125773130","Tigers","Mineski",2004-06-24
+"156",2018-09-19,"/matches/4125755889","TNC Predator","Team Admiral",2004-07-03
+"157",2018-09-19,"/matches/4125670424","Team Admiral","TNC Predator",2004-07-12
+"158",2018-09-19,"/matches/4125606585","TNC Predator","Team Admiral",2004-07-21
+"159",2018-09-20,"/matches/4128469599","compLexity Gaming","TEAM TEAM",2004-07-22
+"160",2018-09-20,"/matches/4128403751","compLexity Gaming","TEAM TEAM",2004-08-06
+"161",2018-09-20,"/matches/4128311042","Evil Geniuses","compLexity Gaming",2004-08-10
+"162",2018-09-20,"/matches/4128238521","Evil Geniuses","compLexity Gaming",2004-08-12
+"163",2018-09-20,"/matches/4128151899","compLexity Gaming","Evil Geniuses",2004-08-19
+"164",2018-09-20,"/matches/4127424261","Alliance","Ninjas in Pyjamas",2004-08-23
+"165",2018-09-20,"/matches/4127360105","Alliance","Ninjas in Pyjamas",2004-08-31
+"166",2018-09-20,"/matches/4128058927","Ninjas in Pyjamas","Team Lithium",2004-09-08
+"167",2018-09-20,"/matches/4127972759","Ninjas in Pyjamas","Team Lithium",2004-09-16
+"168",2018-09-20,"/matches/4127768032","Team Lithium","Team Liquid",2004-09-17
+"169",2018-09-20,"/matches/4127637673","Team Lithium","Team Liquid",2004-09-19
+"170",2018-09-20,"/matches/4127531266","Team Liquid","Team Lithium",2004-09-25
+"171",2018-09-20,"/matches/4127419501","Team Secret","Team Liquid",2004-10-15
+"172",2018-09-20,"/matches/4127364625","Team Secret","Team Liquid",2004-10-19
+"173",2018-09-20,"/matches/4127164607","Mineski","Execration",2004-10-27
+"174",2018-09-20,"/matches/4127109292","Mineski","Execration",2004-11-08
+"175",2018-09-20,"/matches/4127035985","Execration","Mineski",2004-11-14
+"176",2018-09-20,"/matches/4127146676","Lotac","Tigers",2004-11-25
+"177",2018-09-20,"/matches/4127101579","Tigers","Lotac",2004-12-09
+"178",2018-09-20,"/matches/4127032670","Lotac","Tigers",2004-12-16
+"179",2018-09-20,"/matches/4127514993","Lotac","Team Admiral",2004-12-21
+"180",2018-09-20,"/matches/4127419801","Lotac","Team Admiral",2004-12-28
+"181",2018-09-20,"/matches/4127318367","Team Admiral","Mineski",2005-01-06
+"182",2018-09-20,"/matches/4127248183","Team Admiral","Mineski",2005-01-14
+"183",2018-09-20,"/matches/4127078582","Fnatic","Team Admiral",2005-01-17
+"184",2018-09-20,"/matches/4127037375","Fnatic","Team Admiral",2005-02-06
+"185",2018-09-21,"/matches/4130230422","Evil Geniuses","Forward Gaming",2005-02-15
+"186",2018-09-21,"/matches/4130022794","Evil Geniuses","Forward Gaming",2005-02-25
+"187",2018-09-21,"/matches/4129937734","Forward Gaming","Evil Geniuses",2005-02-28
+"188",2018-09-21,"/matches/4129849606","Evil Geniuses","Forward Gaming",2005-03-04
+"189",2018-09-21,"/matches/4129377269","Ninjas in Pyjamas","Alliance",2005-03-11
+"190",2018-09-21,"/matches/4129260117","Ninjas in Pyjamas","Alliance",2005-03-17
+"191",2018-09-21,"/matches/4129143698","Team Secret","Alliance",2005-04-06
+"192",2018-09-21,"/matches/4129044657","Alliance","Team Secret",2005-04-09
+"193",2018-09-21,"/matches/4128961314","Team Secret","Alliance",2005-05-11
+"194",2018-09-21,"/matches/4129671589","Team Secret","Ninjas in Pyjamas",2005-06-05
+"195",2018-09-21,"/matches/4129555588","Team Secret","Ninjas in Pyjamas",2005-06-24
+"196",2018-09-21,"/matches/4129544470","Ninjas in Pyjamas","Team Secret",2005-06-28
+"197",2018-09-21,"/matches/4129149098","Fnatic","TNC Predator",2005-06-30
+"198",2018-09-21,"/matches/4129091851","Fnatic","TNC Predator",2005-07-12
+"199",2018-09-21,"/matches/4128725860","Fnatic","TNC Predator",2005-07-15
+"200",2018-09-21,"/matches/4128665049","TNC Predator","Fnatic",2005-07-27
+"201",2018-09-21,"/matches/4128607771","Fnatic","TNC Predator",2005-07-29
+"202",2018-09-21,"/matches/4128994299","TNC Predator","Lotac",2005-08-07
+"203",2018-09-21,"/matches/4128895584","Lotac","TNC Predator",2005-08-17
+"204",2018-09-21,"/matches/4128810788","TNC Predator","Lotac",2005-08-21
+"205",2018-09-21,"/matches/4128808087","TNC Predator","Lotac",2005-08-23
+"206",2018-09-21,"/matches/4128803560","TNC Predator","Lotac",2005-09-02
+"207",2018-09-22,"/matches/4130264988","Evil Geniuses","Forward Gaming",2005-09-03
+"208",2018-09-22,"/matches/4131349107","DeathBringer Gaming","Keen Gaming",2005-09-11
+"209",2018-09-22,"/matches/4131190815","DeathBringer Gaming","Keen Gaming",2005-09-23
+"210",2018-09-23,"/matches/4132655540","iG Vitality","Eclipse",2005-09-26
+"211",2018-09-24,"/matches/4134952696","EHOME","Newbee Young",2005-10-17
+"212",2018-09-24,"/matches/4134878909","EHOME","Newbee Young",2005-10-30
+"213",2018-09-24,"/matches/4135230853","EHOME","Team EVER",2005-11-15
+"214",2018-09-24,"/matches/4135131495","EHOME","Team EVER",2005-11-23
+"215",2018-09-24,"/matches/4135041106","Team EVER","EHOME",2005-12-05
+"216",2018-09-25,"/matches/4137464085","compLexity Gaming","ROOONS",2005-12-06
+"217",2018-09-25,"/matches/4137423068","compLexity Gaming","ROOONS",2005-12-24
+"218",2018-09-25,"/matches/4136945756","The Final Tribe","Team Lithium",2005-12-28
+"219",2018-09-25,"/matches/4136828506","The Final Tribe","Team Lithium",2006-01-05
+"220",2018-09-25,"/matches/4136676440","Team Lithium","The Final Tribe",2006-01-20
+"221",2018-09-25,"/matches/4137126614","Natus Vincere","Espada",2006-01-21
+"222",2018-09-25,"/matches/4137030242","Natus Vincere","Espada",2006-01-25
+"223",2018-09-25,"/matches/4136919260","Espada","Natus Vincere",2006-01-27
+"224",2018-09-25,"/matches/4137273786","Natus Vincere","Team Empire",2006-02-03
+"225",2018-09-25,"/matches/4137208041","Natus Vincere","Team Empire",2006-02-06
+"226",2018-09-25,"/matches/4136801743","Team Empire","Team Spirit",2006-02-23
+"227",2018-09-25,"/matches/4136677109","Team Empire","Team Spirit",2006-03-28
+"228",2018-09-25,"/matches/4136591341","Team Spirit","Team Empire",2006-04-01
+"229",2018-09-25,"/matches/4136357564","Team Serenity","EHOME",2006-04-02
+"230",2018-09-25,"/matches/4136310501","Team Serenity","EHOME",2006-04-03
+"231",2018-09-25,"/matches/4136262812","EHOME","Team Serenity",2006-04-13
+"232",2018-09-25,"/matches/4136485069","Royal Never Give Up","Newbee",2006-04-28
+"233",2018-09-25,"/matches/4136408667","Royal Never Give Up","Newbee",2006-05-29
+"234",2018-09-25,"/matches/4136802345","Team Serenity","Royal Never Give Up",2006-06-01
+"235",2018-09-25,"/matches/4136685664","Team Serenity","Royal Never Give Up",2006-06-14
+"236",2018-09-25,"/matches/4136594429","Royal Never Give Up","Team Serenity",2006-06-28
+"237",2018-09-25,"/matches/4136331420","Tigers","Lotac",2006-07-02
+"238",2018-09-25,"/matches/4136267916","Tigers","Lotac",2006-07-25
+"239",2018-09-25,"/matches/4136801721","Team Admiral","Tigers",2006-07-30
+"240",2018-09-25,"/matches/4136681821","Team Admiral","Tigers",2006-09-15
+"241",2018-09-25,"/matches/4136547289","Team Admiral","BOOM ID",2006-09-16
+"242",2018-09-25,"/matches/4136470556","Team Admiral","BOOM ID",2006-09-23
+"243",2018-09-25,"/matches/4136403129","BOOM ID","Team Admiral",2006-09-25
+"244",2018-09-26,"/matches/4137728286","compLexity Gaming","TEAM TEAM",2006-10-06
+"245",2018-09-26,"/matches/4137672177","TEAM TEAM","compLexity Gaming",2006-10-08
+"246",2018-09-26,"/matches/4137624687","compLexity Gaming","TEAM TEAM",2006-10-16
+"247",2018-09-26,"/matches/4138748557","Team Liquid","Team Lithium",2006-10-30
+"248",2018-09-26,"/matches/4138654389","Team Lithium","Team Liquid",2006-11-01
+"249",2018-09-26,"/matches/4138539349","Team Liquid","Team Lithium",2006-11-13
+"250",2018-09-26,"/matches/4138739250","Natus Vincere","Espada",2006-11-16
+"251",2018-09-26,"/matches/4138635677","Natus Vincere","Espada",2006-12-08
+"252",2018-09-26,"/matches/4138470159","Espada","Team Empire",2006-12-11
+"253",2018-09-26,"/matches/4138336763","Espada","Team Empire",2006-12-12
+"254",2018-09-26,"/matches/4138959354","Burden United","MEGA-LADA E-sports",2006-12-17
+"255",2018-09-26,"/matches/4138805963","Burden United","MEGA-LADA E-sports",2006-12-30
+"256",2018-09-26,"/matches/4138203558","Espada","Team Spirit",2007-01-06
+"257",2018-09-26,"/matches/4138140498","Espada","Team Spirit",2007-01-16
+"258",2018-09-26,"/matches/4137904544","Newbee","EHOME",2007-01-22
+"259",2018-09-26,"/matches/4137892986","EHOME","Newbee",2007-02-09
+"260",2018-09-26,"/matches/4137812913","Newbee","EHOME",2007-02-18
+"261",2018-09-26,"/matches/4138136469","Royal Never Give Up","Newbee",2007-03-03
+"262",2018-09-26,"/matches/4138048158","Royal Never Give Up","Newbee",2007-03-14
+"263",2018-09-26,"/matches/4137993993","Newbee","Royal Never Give Up",2007-03-22
+"264",2018-09-26,"/matches/4138459685","Royal Never Give Up","Team Serenity",2007-03-23
+"265",2018-09-26,"/matches/4138345449","Team Serenity","Royal Never Give Up",2007-03-24
+"266",2018-09-26,"/matches/4138247221","Royal Never Give Up","Team Serenity",2007-04-05
+"267",2018-09-26,"/matches/4137880076","Lotac","BOOM ID",2007-04-11
+"268",2018-09-26,"/matches/4137817859","Lotac","BOOM ID",2007-04-17
+"269",2018-09-26,"/matches/4138017787","Tigers","Lotac",2007-04-19
+"270",2018-09-26,"/matches/4137947010","Tigers","Lotac",2007-04-21
+"271",2018-09-26,"/matches/4138370020","Tigers","Team Admiral",2007-04-27
+"272",2018-09-26,"/matches/4138245897","Tigers","Team Admiral",2007-04-28
+"273",2018-09-26,"/matches/4138147516","Team Admiral","Tigers",2007-05-03
+"274",2018-09-27,"/matches/4139050137","ROOONS","TEAM TEAM",2007-05-15
+"275",2018-09-27,"/matches/4139142146","ROOONS","TEAM TEAM",2007-05-27
+"276",2018-09-27,"/matches/4139101502","TEAM TEAM","ROOONS",2007-06-01
+"277",2018-09-27,"/matches/4139796999","Winstrike Team","Team Empire",2007-06-24
+"278",2018-09-27,"/matches/4139894182","Eclipse","EHOME",2007-06-30
+"279",2018-09-27,"/matches/4139890060","DeathBringer Gaming","iG Vitality",2007-07-14
+"280",2018-09-28,"/matches/4142274868","paiN X","TEAM TEAM",2007-07-16
+"281",2018-09-28,"/matches/4142219648","TEAM TEAM","paiN X",2007-08-07
+"282",2018-09-28,"/matches/4142196057","Espada","The Final Tribe",2007-08-09
+"283",2018-09-28,"/matches/4142145732","Espada","The Final Tribe",2007-08-26
+"284",2018-09-28,"/matches/4142066978","The Final Tribe","Espada",2007-09-04
+"285",2018-09-28,"/matches/4141979207","Gambit Esports","Natus Vincere",2007-09-25
+"286",2018-09-28,"/matches/4141930543","Gambit Esports","Natus Vincere",2007-09-28
+"287",2018-09-28,"/matches/4141785813","Natus Vincere","Gambit Esports",2007-10-24
+"288",2018-09-28,"/matches/4141662974","Gambit Esports","Natus Vincere",2007-10-28
+"289",2018-09-28,"/matches/4142115072","Team Spirit","Team Lithium",2007-11-01
+"290",2018-09-28,"/matches/4142056489","Team Spirit","Team Lithium",2007-12-09
+"291",2018-09-28,"/matches/4141989039","Team Lithium","Team Spirit",2008-01-06
+"292",2018-09-28,"/matches/4141456602","Alliance","Team Spirit",2008-01-08
+"293",2018-09-28,"/matches/4141363015","Alliance","Team Spirit",2008-01-10
+"294",2018-09-28,"/matches/4141305247","Team Aster","DeathBringer Gaming",2008-01-17
+"295",2018-09-28,"/matches/4141218026","Team Aster","DeathBringer Gaming",2008-02-14
+"296",2018-09-28,"/matches/4141134798","DeathBringer Gaming","Team Aster",2008-02-21
+"297",2018-09-28,"/matches/4141587913","Team Aster","Newbee Young",2008-02-26
+"298",2018-09-28,"/matches/4141440975","Team Aster","Newbee Young",2008-03-05
+"299",2018-09-28,"/matches/4141297833","Newbee Young","Eclipse",2008-03-06
+"300",2018-09-28,"/matches/4141225836","Eclipse","Newbee Young",2008-03-07
+"301",2018-09-28,"/matches/4141147504","Newbee Young","Eclipse",2008-03-21
+"302",2018-09-28,"/matches/4141483599","EVOS Esports","BOOM ID",2008-04-04
+"303",2018-09-28,"/matches/4141382948","EVOS Esports","BOOM ID",2008-04-08
+"304",2018-09-29,"/matches/4144109628","compLexity Gaming","J.Storm",2008-04-18
+"305",2018-09-29,"/matches/4143996536","J.Storm","paiN X",2008-05-24
+"306",2018-09-29,"/matches/4143918038","J.Storm","paiN X",2008-06-20
+"307",2018-09-29,"/matches/4142313471","paiN X","TEAM TEAM",2008-06-22
+"308",2018-09-29,"/matches/4143414505","Alliance","Espada",2008-06-25
+"309",2018-09-29,"/matches/4143277545","Alliance","Espada",2008-07-06
+"310",2018-09-29,"/matches/4143766304","The Final Tribe","Team Empire",2008-07-13
+"311",2018-09-29,"/matches/4143666320","Team Empire","The Final Tribe",2008-08-09
+"312",2018-09-29,"/matches/4143499030","The Final Tribe","Team Empire",2008-08-17
+"313",2018-09-29,"/matches/4143811058","Espada","Winstrike Team",2008-08-25
+"314",2018-09-29,"/matches/4143710777","Espada","Winstrike Team",2008-09-01
+"315",2018-09-29,"/matches/4143604809","Winstrike Team","Espada",2008-09-08
+"316",2018-09-29,"/matches/4143846561","Alliance","Team Spirit",2008-09-10
+"317",2018-09-29,"/matches/4143707842","Alliance","Team Spirit",2008-09-15
+"318",2018-09-29,"/matches/4143584751","Team Spirit","Alliance",2008-09-17
+"319",2018-09-29,"/matches/4143386036","Team Spirit","Winstrike Team",2008-10-07
+"320",2018-09-29,"/matches/4143273010","Team Spirit","Winstrike Team",2008-10-10
+"321",2018-09-29,"/matches/4143464116","Team Serenity","Keen Gaming",2008-10-21
+"322",2018-09-29,"/matches/4143327866","Team Serenity","Keen Gaming",2008-10-27
+"323",2018-09-29,"/matches/4143091153","Team Aster","Keen Gaming",2008-11-02
+"324",2018-09-29,"/matches/4142964003","Team Aster","Keen Gaming",2008-12-03
+"325",2018-09-29,"/matches/4143508954","Team Aster","Newbee",2008-12-04
+"326",2018-09-29,"/matches/4143343974","Team Aster","Newbee",2008-12-11
+"327",2018-09-29,"/matches/4143184739","Newbee","Team Serenity",2008-12-21
+"328",2018-09-29,"/matches/4143079280","Newbee","Team Serenity",2008-12-25
+"329",2018-09-29,"/matches/4142950136","Team Serenity","Newbee",2009-01-08
+"330",2018-09-29,"/matches/4143020606","TNC Predator","EVOS Esports",2009-01-18
+"331",2018-09-29,"/matches/4142936339","TNC Predator","EVOS Esports",2009-01-25
+"332",2018-09-29,"/matches/4142806439","EVOS Esports","Lotac",2009-02-03
+"333",2018-09-29,"/matches/4142708926","EVOS Esports","Lotac",2009-02-12
+"334",2018-09-29,"/matches/4143046552","Tigers","Lotac",2009-03-01
+"335",2018-09-29,"/matches/4142938018","Tigers","Lotac",2009-03-03
+"336",2018-09-29,"/matches/4142798387","TNC Predator","Tigers",2009-03-18
+"337",2018-09-29,"/matches/4142720415","TNC Predator","Tigers",2009-03-23
+"338",2018-09-30,"/matches/4144159705","compLexity Gaming","J.Storm",2009-03-31
+"339",2018-09-30,"/matches/4146013617","compLexity Gaming","paiN X",2009-04-12
+"340",2018-09-30,"/matches/4145961878","paiN X","J.Storm",2009-04-14
+"341",2018-09-30,"/matches/4145830707","paiN X","J.Storm",2009-04-16
+"342",2018-09-30,"/matches/4145813470","Alliance","Espada",2009-04-20
+"343",2018-09-30,"/matches/4145699174","Alliance","Espada",2009-04-21
+"344",2018-09-30,"/matches/4145361462","Gambit Esports","The Final Tribe",2009-04-22
+"345",2018-09-30,"/matches/4145223932","Gambit Esports","The Final Tribe",2009-05-03
+"346",2018-09-30,"/matches/4145078480","The Final Tribe","Gambit Esports",2009-05-05
+"347",2018-09-30,"/matches/4145701185","Team Empire","Natus Vincere",2009-05-09
+"348",2018-09-30,"/matches/4145623465","Natus Vincere","Team Empire",2009-05-12
+"349",2018-09-30,"/matches/4145484050","Team Empire","Natus Vincere",2009-05-22
+"350",2018-09-30,"/matches/4145558195","Espada","Team Spirit",2009-05-29
+"351",2018-09-30,"/matches/4145430169","Team Spirit","Espada",2009-05-30
+"352",2018-09-30,"/matches/4145207702","Espada","Team Spirit",2009-06-05
+"353",2018-09-30,"/matches/4145199938","Team Aster","Newbee",2009-06-08
+"354",2018-09-30,"/matches/4145032410","Team Aster","Newbee",2009-06-14
+"355",2018-09-30,"/matches/4144912599","Newbee","Team Aster",2009-06-27
+"356",2018-09-30,"/matches/4144688801","Newbee","Team Serenity",2009-06-30
+"357",2018-09-30,"/matches/4144602105","Newbee","Team Serenity",2009-07-01
+"358",2018-09-30,"/matches/4145006146","TNC Predator","EVOS Esports",2009-07-07
+"359",2018-09-30,"/matches/4144886761","TNC Predator","EVOS Esports",2009-07-09
+"360",2018-09-30,"/matches/4144718187","EVOS Esports","Tigers",2009-07-22
+"361",2018-09-30,"/matches/4144618018","EVOS Esports","Tigers",2009-08-03
+"362",2018-10-01,"/matches/4146140388","compLexity Gaming","paiN X",2009-08-09
+"363",2018-10-01,"/matches/4146092369","paiN X","compLexity Gaming",2009-08-19
+"364",2018-10-01,"/matches/4146052341","paiN X","compLexity Gaming",2009-08-23
+"365",2018-10-01,"/matches/4147522124","Gambit Esports","Alliance",2009-08-25
+"366",2018-10-01,"/matches/4147510596","Gambit Esports","Alliance",2009-08-31
+"367",2018-10-01,"/matches/4147419661","Gambit Esports","Alliance",2009-09-08
+"368",2018-10-01,"/matches/4147153505","Elements Pro","Espada",2009-09-17
+"369",2018-10-01,"/matches/4147061285","Elements Pro","Espada",2009-10-02
+"370",2018-10-01,"/matches/4146937429","Espada","Team Empire",2009-10-06
+"371",2018-10-01,"/matches/4146773606","Espada","Team Empire",2009-10-21
+"372",2018-10-01,"/matches/4147251819","Team Empire","Team Spirit",2009-10-22
+"373",2018-10-01,"/matches/4147097847","Team Empire","Team Spirit",2009-10-27
+"374",2018-10-01,"/matches/4146954345","Team Spirit","The Final Tribe",2009-10-30
+"375",2018-10-01,"/matches/4146878368","The Final Tribe","Team Spirit",2009-10-31
+"376",2018-10-01,"/matches/4146787382","Team Spirit","The Final Tribe",2009-11-09
+"377",2018-10-01,"/matches/4146766265","The Final Tribe","Team Spirit",2009-11-18
+"378",2018-10-01,"/matches/4147090396","EHOME","Team Serenity",2009-11-22
+"379",2018-10-01,"/matches/4146752898","EHOME","Team Serenity",2009-11-25
+"380",2018-10-01,"/matches/4146596892","Team Serenity","EHOME",2009-11-30
+"381",2018-10-01,"/matches/4146428146","Vici Gaming","Invictus Gaming",2009-12-08
+"382",2018-10-01,"/matches/4147212079","Keen Gaming","Team Serenity",2009-12-19
+"383",2018-10-01,"/matches/4146945468","Team Serenity","Keen Gaming",2009-12-25
+"384",2018-10-01,"/matches/4146318739","Keen Gaming","EHOME",2010-01-02
+"385",2018-10-01,"/matches/4146919951","Vici Gaming","Keen Gaming.Luminous",2010-01-11
+"386",2018-10-01,"/matches/4146227391","Team Aster","Newbee Young",2010-01-22
+"387",2018-10-01,"/matches/4146642261","Team EVER","Team Aster",2010-01-24
+"388",2018-10-01,"/matches/4146531629","DeathBringer Gaming","Team MAX",2010-02-01
+"389",2018-10-01,"/matches/4146798976","Execration","ALPHA Red",2010-02-03
+"390",2018-10-01,"/matches/4146708884","Execration","ALPHA Red",2010-02-05
+"391",2018-10-02,"/matches/4149069888","Alliance","Gambit Esports",2010-02-07
+"392",2018-10-02,"/matches/4148979839","Alliance","Gambit Esports",2010-02-15
+"393",2018-10-02,"/matches/4148878278","Alliance","Gambit Esports",2010-02-16
+"394",2018-10-02,"/matches/4148592604","Alliance","Team Empire",2010-02-18
+"395",2018-10-02,"/matches/4148463188","Alliance","Team Empire",2010-02-23
+"396",2018-10-02,"/matches/4149128262","Team Lithium","Ninjas in Pyjamas",2010-02-24
+"397",2018-10-02,"/matches/4149046767","Team Lithium","Ninjas in Pyjamas",2010-02-27
+"398",2018-10-02,"/matches/4148931989","Ninjas in Pyjamas","Team Lithium",2010-03-02
+"399",2018-10-02,"/matches/4148769848","Team Lithium","Team Spirit",2010-04-09
+"400",2018-10-02,"/matches/4148660449","Team Lithium","Team Spirit",2010-04-16
+"401",2018-10-02,"/matches/4148574262","Team Spirit","Team Lithium",2010-04-17
+"402",2018-10-02,"/matches/4148376503","TNC Predator","CDEC Gaming",2010-04-27
+"403",2018-10-02,"/matches/4148295845","TNC Predator","CDEC Gaming",2010-05-05
+"404",2018-10-02,"/matches/4148665100","Team Aster","DeathBringer Gaming",2010-05-10
+"405",2018-10-02,"/matches/4148523391","Team Aster","DeathBringer Gaming",2010-05-12
+"406",2018-10-02,"/matches/4148401383","DeathBringer Gaming","Team Aster",2010-07-01
+"407",2018-10-02,"/matches/4148568859","EHOME","Vici Gaming",2010-07-08
+"408",2018-10-02,"/matches/4148475905","Vici Gaming","EHOME",2010-07-30
+"409",2018-10-02,"/matches/4148388239","EHOME","Vici Gaming",2010-08-07
+"410",2018-10-02,"/matches/4148203400","DeathBringer Gaming","Keen Gaming",2010-08-14
+"411",2018-10-02,"/matches/4148122844","Keen Gaming","DeathBringer Gaming",2010-08-19
+"412",2018-10-02,"/matches/4148117895","Keen Gaming","DeathBringer Gaming",2010-09-06
+"413",2018-10-02,"/matches/4148038122","DeathBringer Gaming","Keen Gaming",2010-09-15
+"414",2018-10-02,"/matches/4147897013","Vici Gaming","Newbee Young",2010-09-22
+"415",2018-10-02,"/matches/4147885148","Newbee Young","Vici Gaming",2010-09-25
+"416",2018-10-02,"/matches/4148068319","EHOME","Team MAX",2010-10-09
+"417",2018-10-02,"/matches/4148064973","EHOME","Team MAX",2010-10-29
+"418",2018-10-02,"/matches/4148005858","EHOME","Team MAX",2010-11-03
+"419",2018-10-02,"/matches/4148002400","Team MAX","EHOME",2010-11-06
+"420",2018-10-03,"/matches/4150555272","Gambit Esports","Espada",2010-12-14
+"421",2018-10-03,"/matches/4150484853","Gambit Esports","Espada",2010-12-15
+"422",2018-10-03,"/matches/4150363724","Espada","Gambit Esports",2010-12-27
+"423",2018-10-03,"/matches/4149794878","TNC Predator","Aurora Esports club",2011-01-06
+"424",2018-10-03,"/matches/4149726614","TNC Predator","Aurora Esports club",2011-01-07
+"425",2018-10-03,"/matches/4149726353","Vici Gaming","DeathBringer Gaming",2011-01-12
+"426",2018-10-03,"/matches/4149649334","Vici Gaming","DeathBringer Gaming",2011-01-17
+"427",2018-10-03,"/matches/4149990975","EHOME","Team Aster",2011-01-29
+"428",2018-10-03,"/matches/4149888034","EHOME","Team Aster",2011-01-30
+"429",2018-10-03,"/matches/4149912758","BOOM ID","Resurgence",2011-02-02
+"430",2018-10-03,"/matches/4149905633","BOOM ID","Resurgence",2011-02-17
+"431",2018-10-03,"/matches/4149895723","Resurgence","BOOM ID",2011-02-23
+"432",2018-10-03,"/matches/4150096848","Resurgence","Signify",2011-03-02
+"433",2018-10-03,"/matches/4149616700","Team Admiral","Signify",2011-03-07
+"434",2018-10-03,"/matches/4149931846","TNC Predator","Eclipse",2011-03-08
+"435",2018-10-04,"/matches/4152410937","Alliance","Gambit Esports",2011-04-22
+"436",2018-10-04,"/matches/4152342966","Alliance","Gambit Esports",2011-04-23
+"437",2018-10-04,"/matches/4152267303","Gambit Esports","Alliance",2011-04-30
+"438",2018-10-04,"/matches/4151368188","CDEC Gaming","Eclipse",2011-05-04
+"439",2018-10-04,"/matches/4151238744","Aurora Esports club","CDEC Gaming",2011-05-08
+"440",2018-10-04,"/matches/4151162642","CDEC Gaming","Aurora Esports club",2011-05-11
+"441",2018-10-04,"/matches/4151097974","BOOM ID","Signify",2011-05-21
+"442",2018-10-04,"/matches/4152007996","Signify","Resurgence",2011-05-24
+"443",2018-10-04,"/matches/4151308610","BOOM ID","Team Admiral",2011-05-25
+"444",2018-10-04,"/matches/4151159615","Team Admiral","Resurgence",2011-05-31
+"445",2018-10-05,"/matches/4153563499","Team Secret","Signify",2011-06-06
+"446",2018-10-05,"/matches/4153054156","Fnatic","Team Secret",2011-06-10
+"447",2018-10-05,"/matches/4153768075","Ninjas in Pyjamas","Team Spirit",2011-06-12
+"448",2018-10-05,"/matches/4153695159","Ninjas in Pyjamas","Team Spirit",2011-06-24
+"449",2018-10-05,"/matches/4153587861","Team Spirit","Ninjas in Pyjamas",2011-07-07
+"450",2018-10-05,"/matches/4152905998","Eclipse","Invictus Gaming",2011-07-09
+"451",2018-10-05,"/matches/4152808620","Invictus Gaming","Eclipse",2011-07-16
+"452",2018-10-05,"/matches/4153176605","PSG.LGD","BOOM ID",2011-08-11
+"453",2018-10-05,"/matches/4152994530","Team Aster","Newbee",2011-08-15
+"454",2018-10-05,"/matches/4152930804","Newbee","Team Aster",2011-09-11
+"455",2018-10-05,"/matches/4153298457","Fnatic","Signify",2011-09-12
+"456",2018-10-05,"/matches/4153695202","Team Admiral","BOOM ID",2011-10-01
+"457",2018-10-05,"/matches/4153457727","PSG.LGD","Team Admiral",2011-10-16
+"458",2018-10-06,"/matches/4155466743","Ninjas in Pyjamas","Alliance",2011-10-25
+"459",2018-10-06,"/matches/4155340662","Ninjas in Pyjamas","Alliance",2011-10-26
+"460",2018-10-06,"/matches/4155165022","Team Secret","PSG.LGD",2011-10-27
+"461",2018-10-06,"/matches/4155083070","Team Secret","PSG.LGD",2011-10-29
+"462",2018-10-06,"/matches/4155855287","Team Spirit","FCDB Esports",2011-10-30
+"463",2018-10-06,"/matches/4155770234","Team Spirit","FCDB Esports",2011-11-22
+"464",2018-10-06,"/matches/4154773131","DeathBringer Gaming","ALPHA Red",2011-11-28
+"465",2018-10-06,"/matches/4154690166","DeathBringer Gaming","ALPHA Red",2011-11-29
+"466",2018-10-06,"/matches/4154969935","Fnatic","Team Admiral",2011-12-05
+"467",2018-10-06,"/matches/4154833941","Fnatic","Team Admiral",2012-01-07
+"468",2018-10-07,"/matches/4157817393","ROOONS","compLexity Gaming",2012-01-28
+"469",2018-10-07,"/matches/4157748250","compLexity Gaming","ROOONS",2012-01-30
+"470",2018-10-07,"/matches/4157531062","Ninjas in Pyjamas","Gambit Esports",2012-03-17
+"471",2018-10-07,"/matches/4157432427","Ninjas in Pyjamas","Gambit Esports",2012-03-24
+"472",2018-10-07,"/matches/4157751843","FCDB Esports","Team Lithium",2012-04-12
+"473",2018-10-07,"/matches/4157253878","Gambit Esports","Team Lithium",2012-04-14
+"474",2018-10-07,"/matches/4157141348","Team Lithium","Gambit Esports",2012-04-18
+"475",2018-10-07,"/matches/4157024479","Gambit Esports","Team Lithium",2012-04-21
+"476",2018-10-07,"/matches/4157256397","Team Secret","Fnatic",2012-04-27
+"477",2018-10-07,"/matches/4157143183","Fnatic","Team Secret",2012-05-09
+"478",2018-10-07,"/matches/4156943841","Team Secret","Fnatic",2012-05-31
+"479",2018-10-07,"/matches/4156823337","Team Secret","Fnatic",2012-06-07
+"480",2018-10-07,"/matches/4156716299","Fnatic","Team Secret",2012-06-13
+"481",2018-10-07,"/matches/4157911348","Winstrike Team","FCDB Esports",2012-06-23
+"482",2018-10-07,"/matches/4156586991","Eclipse","Aurora Esports club",2012-06-29
+"483",2018-10-07,"/matches/4156461430","Eclipse","Aurora Esports club",2012-07-24
+"484",2018-10-07,"/matches/4156983857","DeathBringer Gaming","EHOME",2012-07-28
+"485",2018-10-07,"/matches/4156915833","EHOME","DeathBringer Gaming",2012-08-01
+"486",2018-10-07,"/matches/4157097170","ALPHA Blue","ALPHA Red",2012-08-08
+"487",2018-10-07,"/matches/4157067583","ALPHA Blue","ALPHA Red",2012-08-17
+"488",2018-10-07,"/matches/4156943496","ALPHA Blue","ALPHA Red",2012-08-20
+"489",2018-10-08,"/matches/4159491136","ROOONS","J.Storm",2012-08-21
+"490",2018-10-08,"/matches/4159592310","paiN X","J.Storm",2012-08-22
+"491",2018-10-08,"/matches/4159555566","Espada","Team Empire",2012-08-25
+"492",2018-10-08,"/matches/4159446658","Espada","Team Empire",2012-08-30
+"493",2018-10-08,"/matches/4158800380","Clutch Gamers","Execration",2012-09-01
+"494",2018-10-08,"/matches/4158672090","Clutch Gamers","Execration",2012-09-04
+"495",2018-10-09,"/matches/4159636538","J.Storm","paiN X",2012-09-05
+"496",2018-10-09,"/matches/4161003911","Team Lithium","FCDB Esports",2012-09-25
+"497",2018-10-09,"/matches/4160997946","FCDB Esports","Team Lithium",2012-09-28
+"498",2018-10-09,"/matches/4160915896","Team Lithium","FCDB Esports",2012-10-02
+"499",2018-10-09,"/matches/4160814965","FCDB Esports","Team Lithium",2012-10-06
+"500",2018-10-09,"/matches/4160729388","Espada","Team Empire",2012-10-08
+"501",2018-10-09,"/matches/4160626224","Espada","Team Empire",2012-10-20
+"502",2018-10-09,"/matches/4160199971","EHOME","ALPHA Red",2012-10-24
+"503",2018-10-09,"/matches/4160135317","EHOME","ALPHA Red",2012-10-26
+"504",2018-10-09,"/matches/4159923103","Invictus Gaming","Aurora Esports club",2012-11-02
+"505",2018-10-09,"/matches/4159865474","Invictus Gaming","Aurora Esports club",2012-11-10
+"506",2018-10-09,"/matches/4160281959","DeathBringer Gaming","Team EVER",2012-11-15
+"507",2018-10-09,"/matches/4160166052","Team EVER","DeathBringer Gaming",2012-11-24
+"508",2018-10-09,"/matches/4160085333","DeathBringer Gaming","Team EVER",2012-12-11
+"509",2018-10-09,"/matches/4160577373","Execration","DeathBringer Gaming",2012-12-14
+"510",2018-10-09,"/matches/4160443141","DeathBringer Gaming","Execration",2012-12-31
+"511",2018-10-09,"/matches/4159989986","EHOME","Execration",2013-01-11
+"512",2018-10-10,"/matches/4162530493","J.Storm","compLexity Gaming",2013-03-09
+"513",2018-10-10,"/matches/4162467326","J.Storm","compLexity Gaming",2013-03-19
+"514",2018-10-10,"/matches/4162585341","compLexity Gaming","paiN X",2013-03-23
+"515",2018-10-10,"/matches/4162318948","Natus Vincere","Team Lithium",2013-03-28
+"516",2018-10-10,"/matches/4162187093","Team Lithium","Natus Vincere",2013-03-30
+"517",2018-10-10,"/matches/4162115954","Natus Vincere","Team Lithium",2013-04-04
+"518",2018-10-10,"/matches/4161514924","TNC Predator","Invictus Gaming",2013-04-05
+"519",2018-10-11,"/matches/4162637869","paiN X","compLexity Gaming",2013-04-19
+"520",2018-10-11,"/matches/4163946637","Ninjas in Pyjamas","Winstrike Team",2013-05-17
+"521",2018-10-11,"/matches/4163879540","Ninjas in Pyjamas","Winstrike Team",2013-05-18
+"522",2018-10-11,"/matches/4163241095","TNC Predator","DeathBringer Gaming",2013-05-19
+"523",2018-10-11,"/matches/4163137950","TNC Predator","DeathBringer Gaming",2013-05-22
+"524",2018-10-11,"/matches/4163002541","DeathBringer Gaming","Keen Gaming.Luminous",2013-06-09
+"525",2018-10-11,"/matches/4162950583","DeathBringer Gaming","Keen Gaming.Luminous",2013-06-10
+"526",2018-10-12,"/matches/4165365412","Natus Vincere","Team Secret",2013-06-14
+"527",2018-10-12,"/matches/4165227618","Natus Vincere","Team Secret",2013-06-22
+"528",2018-10-12,"/matches/4165133945","Team Secret","Natus Vincere",2013-07-15
+"529",2018-10-12,"/matches/4165508718","Virtus.pro","Team Spirit",2013-07-21
+"530",2018-10-12,"/matches/4165440649","Virtus.pro","Team Spirit",2013-09-02
+"531",2018-10-12,"/matches/4164464605","Invictus Gaming","EHOME",2013-09-16
+"532",2018-10-12,"/matches/4164408849","EHOME","Invictus Gaming",2013-10-17
+"533",2018-10-12,"/matches/4164351253","Invictus Gaming","EHOME",2013-10-20
+"534",2018-10-12,"/matches/4165209911","Rex Regum Qeon","BOOM ID",2013-10-21
+"535",2018-10-12,"/matches/4165073662","BOOM ID","Rex Regum Qeon",2013-10-28
+"536",2018-10-13,"/matches/4167452833","Virtus.pro","Ninjas in Pyjamas",2013-10-29
+"537",2018-10-13,"/matches/4167448032","Virtus.pro","Ninjas in Pyjamas",2013-11-03
+"538",2018-10-13,"/matches/4167347991","Ninjas in Pyjamas","Virtus.pro",2013-11-20
+"539",2018-10-13,"/matches/4167274476","Virtus.pro","Ninjas in Pyjamas",2013-11-22
+"540",2018-10-13,"/matches/4166461168","TNC Predator","Invictus Gaming",2013-11-25
+"541",2018-10-13,"/matches/4166650709","DeathBringer Gaming","Keen Gaming",2013-12-01
+"542",2018-10-13,"/matches/4166527484","DeathBringer Gaming","Keen Gaming",2013-12-03
+"543",2018-10-13,"/matches/4166451518","Keen Gaming","DeathBringer Gaming",2013-12-05
+"544",2018-10-13,"/matches/4166451346","Clutch Gamers","EVOS Esports",2013-12-08
+"545",2018-10-13,"/matches/4166329891","Clutch Gamers","EVOS Esports",2013-12-19
+"546",2018-10-13,"/matches/4166218393","Clutch Gamers","Team Admiral",2014-01-01
+"547",2018-10-13,"/matches/4166110196","Clutch Gamers","Team Admiral",2014-01-06
+"548",2018-10-14,"/matches/4168087759","EHOME","DeathBringer Gaming",2014-01-08
+"549",2018-10-14,"/matches/4168001167","EHOME","DeathBringer Gaming",2014-01-13
+"550",2018-10-14,"/matches/4167878150","DeathBringer Gaming","EHOME",2014-01-14
+"551",2018-10-14,"/matches/4168286166","EHOME","Invictus Gaming",2014-01-21
+"552",2018-10-14,"/matches/4168204838","EHOME","Invictus Gaming",2014-01-24
+"553",2018-10-14,"/matches/4168799699","Keen Gaming.Luminous","DeathBringer Gaming",2014-01-26
+"554",2018-10-14,"/matches/4168672341","Keen Gaming.Luminous","DeathBringer Gaming",2014-02-07
+"555",2018-10-14,"/matches/4168574926","Keen Gaming.Luminous","DeathBringer Gaming",2014-02-17
+"556",2018-10-14,"/matches/4168466866","DeathBringer Gaming","Keen Gaming.Luminous",2014-02-18
+"557",2018-10-14,"/matches/4168166059","Lotac","Clutch Gamers",2014-03-10
+"558",2018-10-14,"/matches/4168036173","Clutch Gamers","Lotac",2014-03-14
+"559",2018-10-14,"/matches/4168764418","Lotac","EVOS Esports",2014-03-26
+"560",2018-10-14,"/matches/4168605419","Lotac","EVOS Esports",2014-04-09
+"561",2018-10-15,"/matches/4169752792","EHOME","TNC Predator",2014-04-13
+"562",2018-10-15,"/matches/4169690908","EHOME","TNC Predator",2014-04-14
+"563",2018-10-15,"/matches/4170346566","Tigers","Execration",2014-04-24
+"564",2018-10-15,"/matches/4170233308","Tigers","Execration",2014-04-27
+"565",2018-10-15,"/matches/4170159937","Clutch Gamers","Team Admiral",2014-05-04
+"566",2018-10-15,"/matches/4170053817","Clutch Gamers","Team Admiral",2014-05-13
+"567",2018-10-16,"/matches/4171459881","Clutch Gamers","Tigers",2014-05-14
+"568",2018-10-16,"/matches/4171392040","Clutch Gamers","Tigers",2014-05-28
+"569",2018-10-16,"/matches/4171499059","EVOS Esports","Resurgence",2014-06-05
+"570",2018-10-16,"/matches/4171406297","EVOS Esports","Resurgence",2014-06-06
+"571",2018-10-17,"/matches/4173449178","Team Lithium","Team Empire",2014-06-22
+"572",2018-10-17,"/matches/4172631250","Clutch Gamers","ALPHA Red",2014-06-25
+"573",2018-10-17,"/matches/4172588655","Clutch Gamers","ALPHA Red",2014-06-26
+"574",2018-10-17,"/matches/4172753312","Tigers","Team Admiral",2014-06-28
+"575",2018-10-17,"/matches/4172689466","Tigers","Team Admiral",2014-07-03
+"576",2018-10-18,"/matches/4175144598","Forward Gaming","compLexity Gaming",2014-07-06
+"577",2018-10-18,"/matches/4175068788","compLexity Gaming","Forward Gaming",2014-07-13
+"578",2018-10-18,"/matches/4174993559","Forward Gaming","compLexity Gaming",2014-07-17
+"579",2018-10-18,"/matches/4175246307","J.Storm","paiN X",2014-07-21
+"580",2018-10-18,"/matches/4175200522","J.Storm","paiN X",2014-07-30
+"581",2018-10-18,"/matches/4174036844","Vici Gaming","DeathBringer Gaming",2014-08-01
+"582",2018-10-18,"/matches/4174005999","Vici Gaming","DeathBringer Gaming",2014-08-04
+"583",2018-10-18,"/matches/4174529316","Newbee","EHOME",2014-08-14
+"584",2018-10-18,"/matches/4174450171","Newbee","EHOME",2014-09-06
+"585",2018-10-18,"/matches/4174356403","DeathBringer Gaming","iG Vitality",2014-09-17
+"586",2018-10-18,"/matches/4174286994","DeathBringer Gaming","iG Vitality",2014-09-21
+"587",2018-10-18,"/matches/4174185789","EHOME","Keen Gaming",2014-09-28
+"588",2018-10-18,"/matches/4174140610","EHOME","Keen Gaming",2014-10-02
+"589",2018-10-18,"/matches/4174070978","Newbee","Royal Never Give Up",2014-10-03
+"590",2018-10-18,"/matches/4174541158","Vici Gaming","Team Aster",2014-10-06
+"591",2018-10-18,"/matches/4174458872","Vici Gaming","Team Aster",2014-10-07
+"592",2018-10-18,"/matches/4174348648","Tigers","EVOS Esports",2014-10-15
+"593",2018-10-18,"/matches/4174277974","EVOS Esports","Tigers",2014-10-20
+"594",2018-10-18,"/matches/4174150763","Lotac","Tigers",2014-11-02
+"595",2018-10-18,"/matches/4174083354","Lotac","Tigers",2014-11-13
+"596",2018-10-19,"/matches/4176765285","Forward Gaming","J.Storm",2014-12-12
+"597",2018-10-19,"/matches/4176705840","Forward Gaming","J.Storm",2014-12-13
+"598",2018-10-19,"/matches/4176630845","Forward Gaming","J.Storm",2014-12-15
+"599",2018-10-19,"/matches/4176481222","FCDB Esports","Team Spirit",2014-12-20
+"600",2018-10-19,"/matches/4176032941","DeathBringer Gaming","Team Aster",2015-01-05
+"601",2018-10-19,"/matches/4175930406","Team Aster","DeathBringer Gaming",2015-01-13
+"602",2018-10-19,"/matches/4175639456","iG Vitality","Team Aster",2015-01-28
+"603",2018-10-19,"/matches/4175590644","Team Aster","iG Vitality",2015-02-05
+"604",2018-10-19,"/matches/4175392338","iG Vitality","Vici Gaming",2015-02-08
+"605",2018-10-19,"/matches/4175357026","Vici Gaming","iG Vitality",2015-02-21
+"606",2018-10-19,"/matches/4175830151","Newbee","Keen Gaming",2015-04-10
+"607",2018-10-19,"/matches/4175748757","Newbee","Keen Gaming",2015-04-16
+"608",2018-10-19,"/matches/4175411711","Newbee","Mr Game Boy",2015-04-19
+"609",2018-10-19,"/matches/4175351716","Mr Game Boy","Newbee",2015-05-07
+"610",2018-10-20,"/matches/4177670068","DeathBringer Gaming","iG Vitality",2015-05-08
+"611",2018-10-20,"/matches/4177523754","DeathBringer Gaming","iG Vitality",2015-05-12
+"612",2018-10-20,"/matches/4177043704","iG Vitality","EHOME",2015-06-02
+"613",2018-10-20,"/matches/4177996304","Mr Game Boy","DeathBringer Gaming",2015-06-17
+"614",2018-10-20,"/matches/4177875962","Mr Game Boy","DeathBringer Gaming",2015-06-22
+"615",2018-10-20,"/matches/4177306511","EHOME","Mr Game Boy",2015-06-23
+"616",2018-10-20,"/matches/4177220688","EHOME","Mr Game Boy",2015-06-25
+"617",2018-10-20,"/matches/4177071041","Mr Game Boy","DeathBringer Gaming",2015-08-07
+"618",2018-10-20,"/matches/4177008650","Mr Game Boy","DeathBringer Gaming",2015-08-08
+"619",2018-10-20,"/matches/4177843102","ALPHA Red","Resurgence",2015-08-19
+"620",2018-10-20,"/matches/4177812698","ALPHA Red","Resurgence",2015-09-08
+"621",2018-10-20,"/matches/4177653818","ALPHA Red","Resurgence",2015-09-13
+"622",2018-10-20,"/matches/4177187175","ALPHA Red","Tigers",2015-10-01
+"623",2018-10-20,"/matches/4178287078","Clutch Gamers","Execration",2015-10-02
+"624",2018-10-20,"/matches/4178117845","Execration","Clutch Gamers",2015-10-06
+"625",2018-10-20,"/matches/4177397293","Team Admiral","Lotac",2015-10-12
+"626",2018-10-20,"/matches/4177304653","Lotac","Team Admiral",2015-10-16
+"627",2018-10-21,"/matches/4180349489","Team Spirit","Team Empire",2015-10-26
+"628",2018-10-21,"/matches/4180276138","Team Spirit","Team Empire",2015-11-06
+"629",2018-10-21,"/matches/4180201546","Team Spirit","Team Empire",2015-11-27
+"630",2018-10-22,"/matches/4181270677","Aurora Esports club","iG Vitality",2015-11-29
+"631",2018-10-22,"/matches/4181361394","Team Serenity","Newbee Young",2015-12-02
+"632",2018-10-22,"/matches/4181263273","Team Serenity","Newbee Young",2015-12-14
+"633",2018-10-23,"/matches/4183408415","Forward Gaming","compLexity Gaming",2015-12-28
+"634",2018-10-23,"/matches/4183333306","compLexity Gaming","Forward Gaming",2016-01-13
+"635",2018-10-23,"/matches/4182947947","Evil Geniuses","paiN Gaming",2016-01-14
+"636",2018-10-23,"/matches/4182864290","paiN Gaming","Evil Geniuses",2016-01-16
+"637",2018-10-23,"/matches/4182755577","Team Secret","Evil Geniuses",2016-01-24
+"638",2018-10-23,"/matches/4182682702","Evil Geniuses","Team Secret",2016-02-13
+"639",2018-10-23,"/matches/4183229556","Virtus.pro","Forward Gaming",2016-02-19
+"640",2018-10-23,"/matches/4183114529","Virtus.pro","Forward Gaming",2016-02-20
+"641",2018-10-23,"/matches/4182775150","Vici Gaming","paiN Gaming",2016-02-24
+"642",2018-10-23,"/matches/4182687939","Vici Gaming","paiN Gaming",2016-03-06
+"643",2018-10-23,"/matches/4182962281","Vici Gaming","Alliance",2016-03-07
+"644",2018-10-23,"/matches/4182862149","Vici Gaming","Alliance",2016-03-11
+"645",2018-10-23,"/matches/4182754729","Mineski","Alliance",2016-04-23
+"646",2018-10-23,"/matches/4182687471","Alliance","Mineski",2016-04-26
+"647",2018-10-23,"/matches/4183255443","Team Aster","Ninjas in Pyjamas",2016-04-29
+"648",2018-10-23,"/matches/4183110017","Team Aster","Ninjas in Pyjamas",2016-05-02
+"649",2018-10-23,"/matches/4182939521","Team Secret","Mineski",2016-05-05
+"650",2018-10-23,"/matches/4182861409","Team Secret","Mineski",2016-05-31
+"651",2018-10-23,"/matches/4183451840","Team Aster","Virtus.pro",2016-06-01
+"652",2018-10-23,"/matches/4183354725","Team Aster","Virtus.pro",2016-06-10
+"653",2018-10-23,"/matches/4182646322","Team Serenity","Aurora Esports club",2016-06-11
+"654",2018-10-23,"/matches/4182595945","Team Serenity","Aurora Esports club",2016-06-21
+"655",2018-10-23,"/matches/4182826160","EHOME","Team EVER",2016-06-26
+"656",2018-10-23,"/matches/4182755652","EHOME","Team EVER",2016-06-28
+"657",2018-10-23,"/matches/4182614839","Lotac","Clutch Gamers",2016-07-18
+"658",2018-10-23,"/matches/4182547656","Lotac","Clutch Gamers",2016-08-05
+"659",2018-10-23,"/matches/4182501910","Clutch Gamers","Lotac",2016-08-14
+"660",2018-10-23,"/matches/4183437739","Ninjas in Pyjamas","EVOS Esports",2016-08-24
+"661",2018-10-23,"/matches/4183356494","Ninjas in Pyjamas","EVOS Esports",2016-08-26
+"662",2018-10-23,"/matches/4183217761","EVOS Esports","compLexity Gaming",2016-09-02
+"663",2018-10-23,"/matches/4183094296","compLexity Gaming","EVOS Esports",2016-09-05
+"664",2018-10-23,"/matches/4182466550","Resurgence","Execration",2016-09-06
+"665",2018-10-23,"/matches/4182397071","Execration","Resurgence",2016-09-08
+"666",2018-10-23,"/matches/4182612130","ALPHA Red","Team Admiral",2016-09-10
+"667",2018-10-23,"/matches/4182566995","Team Admiral","ALPHA Red",2016-09-14
+"668",2018-10-24,"/matches/4184970472","Team Aster","compLexity Gaming",2016-09-16
+"669",2018-10-24,"/matches/4184879768","Team Aster","compLexity Gaming",2016-09-21
+"670",2018-10-24,"/matches/4184751503","Virtus.pro","compLexity Gaming",2016-09-27
+"671",2018-10-24,"/matches/4184676146","Virtus.pro","compLexity Gaming",2016-10-01
+"672",2018-10-24,"/matches/4184491877","Vici Gaming","Evil Geniuses",2016-10-12
+"673",2018-10-24,"/matches/4184386894","Evil Geniuses","Vici Gaming",2016-10-18
+"674",2018-10-24,"/matches/4184261341","Evil Geniuses","Mineski",2016-10-31
+"675",2018-10-24,"/matches/4184179421","Mineski","Evil Geniuses",2016-11-02
+"676",2018-10-24,"/matches/4184784565","Ninjas in Pyjamas","Forward Gaming",2016-11-05
+"677",2018-10-24,"/matches/4184683799","Forward Gaming","Ninjas in Pyjamas",2016-11-18
+"678",2018-10-24,"/matches/4184548830","paiN Gaming","Mineski",2016-11-26
+"679",2018-10-24,"/matches/4184428054","paiN Gaming","Mineski",2016-12-25
+"680",2018-10-24,"/matches/4184256906","Alliance","paiN Gaming",2017-01-14
+"681",2018-10-24,"/matches/4184185268","paiN Gaming","Alliance",2017-01-20
+"682",2018-10-24,"/matches/4184546816","Team Secret","Alliance",2017-01-22
+"683",2018-10-24,"/matches/4184421518","Team Secret","Alliance",2017-02-04
+"684",2018-10-24,"/matches/4184944179","Virtus.pro","Ninjas in Pyjamas",2017-02-14
+"685",2018-10-24,"/matches/4184872331","Virtus.pro","Ninjas in Pyjamas",2017-02-16
+"686",2018-10-24,"/matches/4184265897","Team Secret","Vici Gaming",2017-02-20
+"687",2018-10-24,"/matches/4183927151","Team Serenity","iG Vitality",2017-02-21
+"688",2018-10-24,"/matches/4184351582","Aurora Esports club","Newbee Young",2017-02-22
+"689",2018-10-24,"/matches/4184262234","Aurora Esports club","Newbee Young",2017-03-01
+"690",2018-10-24,"/matches/4184178055","Vici Gaming","Team Secret",2017-03-16
+"691",2018-10-24,"/matches/4184958702","Forward Gaming","EVOS Esports",2017-03-18
+"692",2018-10-24,"/matches/4184876337","Forward Gaming","EVOS Esports",2017-03-27
+"693",2018-10-24,"/matches/4184767482","Team Aster","EVOS Esports",2017-03-28
+"694",2018-10-24,"/matches/4184670119","Team Aster","EVOS Esports",2017-04-03
+"695",2018-10-24,"/matches/4184101086","Lotac","Fnatic",2017-04-09
+"696",2018-10-24,"/matches/4184003337","Lotac","Fnatic",2017-04-16
+"697",2018-10-25,"/matches/4186127407","compLexity Gaming","Ninjas in Pyjamas",2017-05-04
+"698",2018-10-25,"/matches/4185928469","compLexity Gaming","Ninjas in Pyjamas",2017-05-08
+"699",2018-10-25,"/matches/4185799546","Evil Geniuses","Alliance",2017-05-17
+"700",2018-10-25,"/matches/4185683334","Alliance","Evil Geniuses",2017-05-20
+"701",2018-10-25,"/matches/4186102798","Forward Gaming","Team Aster",2017-05-29
+"702",2018-10-25,"/matches/4185928845","Team Aster","Forward Gaming",2017-06-22
+"703",2018-10-25,"/matches/4186574601","Infamous Young","Thunder Predator",2017-07-05
+"704",2018-10-25,"/matches/4185745466","Team Secret","paiN Gaming",2017-07-09
+"705",2018-10-25,"/matches/4185679954","Team Secret","paiN Gaming",2017-07-16
+"706",2018-10-25,"/matches/4186479392","Virtus.pro","Team Secret",2017-08-23
+"707",2018-10-25,"/matches/4186389316","Team Secret","Virtus.pro",2017-09-01
+"708",2018-10-25,"/matches/4186297680","Virtus.pro","Team Secret",2017-09-08
+"709",2018-10-25,"/matches/4185569797","EHOME","CDEC Gaming",2017-09-22
+"710",2018-10-25,"/matches/4186488563","Vici Gaming","Team Aster",2017-09-26
+"711",2018-10-25,"/matches/4186399342","Vici Gaming","Team Aster",2017-10-11
+"712",2018-10-25,"/matches/4186304793","Team Aster","Vici Gaming",2017-10-24
+"713",2018-10-25,"/matches/4185768092","Vici Gaming","Mineski",2017-10-25
+"714",2018-10-25,"/matches/4185682871","Vici Gaming","Mineski",2017-11-01
+"715",2018-10-25,"/matches/4185513198","Fnatic","Clutch Gamers",2017-11-02
+"716",2018-10-25,"/matches/4185462423","Fnatic","Clutch Gamers",2017-11-06
+"717",2018-10-25,"/matches/4186019432","Virtus.pro","EVOS Esports",2017-12-07
+"718",2018-10-25,"/matches/4185928449","Virtus.pro","EVOS Esports",2017-12-11
+"719",2018-10-25,"/matches/4185827804","Fnatic","Lotac",2017-12-24
+"720",2018-10-25,"/matches/4185747044","Fnatic","Lotac",2017-12-27
+"721",2018-10-25,"/matches/4185741706","Lotac","Fnatic",2018-01-02
+"722",2018-10-25,"/matches/4185668920","Lotac","Fnatic",2018-01-08
+"723",2018-10-25,"/matches/4185599861","Fnatic","Lotac",2018-01-21
+"724",2018-10-26,"/matches/4187322534","Evil Geniuses","compLexity Gaming",2018-01-27
+"725",2018-10-26,"/matches/4187224996","Evil Geniuses","compLexity Gaming",2018-01-29
+"726",2018-10-26,"/matches/4187903012","Team Secret","Evil Geniuses",2018-02-04
+"727",2018-10-26,"/matches/4187752911","Team Secret","Evil Geniuses",2018-02-19
+"728",2018-10-26,"/matches/4187592399","paiN Gaming","Forward Gaming",2018-02-20
+"729",2018-10-26,"/matches/4187461676","paiN Gaming","Forward Gaming",2018-02-24
+"730",2018-10-26,"/matches/4187015374","Aurora Esports club","Invictus Gaming",2018-03-14
+"731",2018-10-26,"/matches/4187478383","Team EVER","Team Serenity",2018-03-15
+"732",2018-10-26,"/matches/4187279265","Team EVER","Team Serenity",2018-03-21
+"733",2018-10-26,"/matches/4187253452","Execration","Clutch Gamers",2018-04-21
+"734",2018-10-26,"/matches/4187140742","Execration","Clutch Gamers",2018-04-23
+"735",2018-10-27,"/matches/4190235763","Team Secret","paiN Gaming",2018-05-01
+"736",2018-10-27,"/matches/4190155073","Team Secret","paiN Gaming",2018-05-07
+"737",2018-10-27,"/matches/4189556798","paiN Gaming","Team Aster",2018-06-01
+"738",2018-10-27,"/matches/4189447572","paiN Gaming","Team Aster",2018-06-07
+"739",2018-10-27,"/matches/4189291137","Team Aster","paiN Gaming",2018-06-19
+"740",2018-10-27,"/matches/4189993287","Vici Gaming","Virtus.pro",2018-06-21
+"741",2018-10-27,"/matches/4189865872","Virtus.pro","Vici Gaming",2018-07-03
+"742",2018-10-27,"/matches/4189718921","Vici Gaming","Virtus.pro",2018-07-07
+"743",2018-10-27,"/matches/4189097985","Team Serenity","Aurora Esports club",2018-07-11
+"744",2018-10-27,"/matches/4188999266","Team Serenity","Aurora Esports club",2018-07-22
+"745",2018-10-27,"/matches/4189488737","EHOME","Team EVER",2018-07-26
+"746",2018-10-27,"/matches/4189387701","EHOME","Team EVER",2018-07-28
+"747",2018-10-28,"/matches/4192237735","Team Secret","Vici Gaming",2018-07-31
+"748",2018-10-28,"/matches/4192167650","Team Secret","Vici Gaming",2018-08-17
+"749",2018-10-28,"/matches/4192159128","Team Secret","Vici Gaming",2018-08-18
+"750",2018-10-28,"/matches/4192051898","Vici Gaming","Team Secret",2018-08-23
+"751",2018-10-28,"/matches/4191920420","Vici Gaming","Team Secret",2018-08-29
+"752",2018-10-28,"/matches/4191790182","Team Secret","Vici Gaming",2018-09-03
+"753",2018-10-28,"/matches/4191479537","Team Secret","Virtus.pro",2018-09-05
+"754",2018-10-28,"/matches/4191349439","Team Secret","Virtus.pro",2018-09-19
+"755",2018-10-28,"/matches/4191342946","Team Serenity","EHOME",2018-09-27
+"756",2018-10-28,"/matches/4190964823","Team Serenity","Team EVER",2018-10-02
+"757",2018-10-28,"/matches/4190880485","Team EVER","Team Serenity",2018-10-10
