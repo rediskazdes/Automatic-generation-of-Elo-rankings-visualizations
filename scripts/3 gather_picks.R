@@ -3,8 +3,8 @@ library(rjson)
 library(purrr)
 library(magrittr)
 library(dplyr)
-load("/data/matches.rda")
-load("/data/picks.rda")
+load("data/matches.rda")
+load("data/picks.rda")
 
 ids = extract_numeric(matches_df$id)
 ids = ids[!ids %in% picks_df$match_id]

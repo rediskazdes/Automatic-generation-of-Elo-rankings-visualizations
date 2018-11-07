@@ -2,8 +2,8 @@ library(dplyr)
 library(tidyr)
 library(tidytext)
 
-load(file="/data/picks.rda")
-load(file="/data/matches.rda")
+load(file="data/picks.rda")
+load(file="data/matches.rda")
 
 
 picks_df = filter(picks_df,id %in% extract_numeric(matches_df$id))

@@ -6,9 +6,9 @@ library(magick)
 library(png)
 library(grid)
 
-load("/data/elo_recent.rda")
-load("/data/top_hrs.rda")
-load("/data/heroes.rda")
+load("data/elo_recent.rda")
+load("data/top_hrs.rda")
+load("data/heroes.rda")
 
 heroes_relev = filter(heroes_pics,hero_id %in% top$hero_id)
 coors = select(compare,name,coor,region)
@@ -89,7 +89,7 @@ g = g + annotate("text",x=xh_coors,y=max(compare$coor+2),label=xh_names,color="w
 top1 = filter(top,team_name == "Team Secret")
 for(id in heroes_relev$hero_id){
     print(id)
-    path = str_c("~/elo/data/pics/",heroes_relev$pic_name[heroes_relev$hero_id == id])
+    path = str_c("data/pics/",heroes_relev$pic_name[heroes_relev$hero_id == id])
     h = image_read(path) %>% rasterGrob(interpolate=TRUE)
     df1 = filter(top,hero_id == id)
     
@@ -107,7 +107,7 @@ for(id in heroes_relev$hero_id){
     }
 }
 
-ggsave("~/elo/eng/overview.png",g, height = 7 * aspect_ratio, width = 9.3)
+ggsave("eng/overview.png",g, height = 7 * aspect_ratio, width = 9.3)
 
 
 #### Regions
@@ -143,7 +143,7 @@ for (i in 1:length(levels(compare$region))){
     
     for(id in heroes_relev$hero_id){
       print(id)
-      path = str_c("~/elo/data/pics/",heroes_relev$pic_name[heroes_relev$hero_id == id])
+      path = str_c("data/pics/",heroes_relev$pic_name[heroes_relev$hero_id == id])
       h = image_read(path) %>% rasterGrob(interpolate=TRUE)
       df1 = filter(top1,hero_id == id)
       
@@ -161,32 +161,32 @@ for (i in 1:length(levels(compare$region))){
       }
     }
     
-path = str_c("~/elo/eng/",levels(compare1$region)[i],".png")
+path = str_c("eng/",levels(compare1$region)[i],".png")
 heigh = 3 + nrow(compare1)/4
 ggsave(path,g1, height = heigh, width = 9.3)
 }
 
-
-#### parts of table
-compare$part = rep(1:6,each=11)
-
-for (i in unique(compare$part)){
-compare2 = filter(compare,part ==i)
-change_scheme1 = filter(change_scheme,diff_dir %in% levels(compare2$diff_dir))
-g3 = ggplot() + geom_tile(data=compare2, 
-                         mapping=aes(x=x_coors[1],y=coor-0.065,height=0.85,width=0.4,fill=region), alpha=0.9)+ 
-  geom_text(data=compare2,aes(y=coor,x=x_coors[1],label=name),family = "AvantGarde", colour = "white") +
-  geom_text(data=compare2,aes(y=coor,x=x_coors[2],label=pos_before_esl),family = "AvantGarde", colour = "white") +  
-  geom_text(data=compare2,aes(y=coor,x=x_coors[3],label=pos_after_esl),family = "AvantGarde", colour = "white") +  
-  geom_text(data=compare2,aes(y=coor,x=x_coors[4],label=pos_diff,colour=diff_dir),family = "AvantGarde")+
-  geom_text(data=compare2,aes(y=coor,x=x_coors[5],label=elllo),family = "AvantGarde", colour = "white") +
-  scale_colour_manual(values=change_scheme1$color) +
-  annotate("text",x=x_coors,y=max(compare2$coor+1.5),label=x_nms,color="white",size=4.3) +
-  scale_fill_manual(values=color_scheme) + xlim(min(x_coors)-0.2,max(x_coors)+0.1) + my_theme() +
-  ggtitle(title_text,subtitle=subtitle_text) + guides(colour =FALSE, fill=guide_legend(nrow=2))
-
-path = str_c("~/elo/parts/",i,".png")
-ggsave(path,g3, height = 7, width = 7)
-
-}
-
+# 
+# #### parts of table
+# compare$part = rep(1:6,each=11)
+# 
+# for (i in unique(compare$part)){
+# compare2 = filter(compare,part ==i)
+# change_scheme1 = filter(change_scheme,diff_dir %in% levels(compare2$diff_dir))
+# g3 = ggplot() + geom_tile(data=compare2, 
+#                          mapping=aes(x=x_coors[1],y=coor-0.065,height=0.85,width=0.4,fill=region), alpha=0.9)+ 
+#   geom_text(data=compare2,aes(y=coor,x=x_coors[1],label=name),family = "AvantGarde", colour = "white") +
+#   geom_text(data=compare2,aes(y=coor,x=x_coors[2],label=pos_before_esl),family = "AvantGarde", colour = "white") +  
+#   geom_text(data=compare2,aes(y=coor,x=x_coors[3],label=pos_after_esl),family = "AvantGarde", colour = "white") +  
+#   geom_text(data=compare2,aes(y=coor,x=x_coors[4],label=pos_diff,colour=diff_dir),family = "AvantGarde")+
+#   geom_text(data=compare2,aes(y=coor,x=x_coors[5],label=elllo),family = "AvantGarde", colour = "white") +
+#   scale_colour_manual(values=change_scheme1$color) +
+#   annotate("text",x=x_coors,y=max(compare2$coor+1.5),label=x_nms,color="white",size=4.3) +
+#   scale_fill_manual(values=color_scheme) + xlim(min(x_coors)-0.2,max(x_coors)+0.1) + my_theme() +
+#   ggtitle(title_text,subtitle=subtitle_text) + guides(colour =FALSE, fill=guide_legend(nrow=2))
+# 
+# path = str_c("~/elo/parts/",i,".png")
+# ggsave(path,g3, height = 7, width = 7)
+# 
+# }
+# 

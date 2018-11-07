@@ -8,4 +8,4 @@ dpc = select(dpc,2,3)
 dpc = dpc[-1,]
 names(dpc)[1] = "name"
 dpc$Points = as.numeric(dpc$Points)
-save(dpc,file="/data/dpc.rda")
+save(dpc,file="data/dpc.rda")

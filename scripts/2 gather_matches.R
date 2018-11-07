@@ -54,4 +54,4 @@ matches_df = arrange(matches_df,date)
 dates = sample(seq(as.Date('2001/01/01'), as.Date('2018/10/10'), by="day"), nrow(matches_df))
 dates = sort(dates)
 matches_df$date_2 = dates
-save(teams_performance1,matches_df,file="/data/matches.rda")
+save(teams_performance1,matches_df,file="data/matches.rda")
